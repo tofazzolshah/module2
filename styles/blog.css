@@ -1,0 +1,31 @@
+.blog{
+    color: brown;
+    background-color: cadetblue;
+    margin: 5px;
+    border: 6px solid navy;
+    padding: 5px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px rgba(135, 207, 235, 0.525);
+}
+h3{
+    font-size: 28px;
+    text-decoration: underline;
+    font-family:'Courier New', Courier, monospace;
+}
+.second
+{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.incedent{
+    border: 1px dotted white;
+}
+.header
+{
+    text-align: center;
+    color: yellow;
+    
+  height: 75px;  
+  background-image: url('https://superdesigner.co/img/bg.png');
+  background-size: cover;
+}
